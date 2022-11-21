@@ -1,5 +1,5 @@
 - 👋 Hi, I'm ThomasAlberto21
-- 👀 I'm interested in the libraries React JS , Express JS and Vue JS
+- 👀 I'm interested in the libraries React JS
 - 🌱 I'm currently learning Node JS and Express JS
 ️- 💞️ I want to collaborate with anyone
 - 📫 Contact me via instagram thomasalberto21
